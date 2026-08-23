@@ -1,1 +1,5 @@
-"# 69-s2-cybersec" 
+# Cyber Security
+
+## My Information
+- Patcharaphon Sathapitanon
+- 0568604050XXX
